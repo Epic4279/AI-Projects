@@ -1,1 +1,1 @@
-# Algoverse
+# Ameen Patel's AI Projects
